@@ -6,7 +6,9 @@ The application allows users to securely manage their contacts through authentic
 
 ## 🌐 Live Demo
 
-🚀 **Application:** https://contact-management-app-nine-drab.vercel.app/
+🚀 **Application Live Link :** https://contact-management-app-nine-drab.vercel.app/
+
+🚀 **Demo Video Link :** https://drive.google.com/file/d/1X0iYmGRYBZxW9SEwQ1_dg9GcCswYt12S/view?usp=sharing
 
 > **Note:** The backend is hosted on Render's free tier. If the API has been inactive for some time, the first request may take **30–60 seconds** while the server wakes up.
 
