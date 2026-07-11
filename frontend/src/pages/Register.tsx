@@ -77,7 +77,7 @@ function Register() {
             
 
               <h1 className="fw-bold text-center text-white mb-1">
-  Maven
+  Mavens
 </h1>
 
 <h2 className="fw-bold text-center text-white">
