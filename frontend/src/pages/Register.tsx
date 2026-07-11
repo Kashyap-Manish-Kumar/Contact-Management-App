@@ -64,19 +64,26 @@ function Register() {
         </div>
 
         {/* Right Side */}
-        <div className="col-lg-6 d-flex align-items-center justify-content-center">
+        <div className="col-lg-6 d-flex align-items-center   justify-content-center">
 
           <div
-            className="card shadow-lg border-0"
-            style={{ width: "430px" }}
+            className="card shadow-lg border-0 overflow-hidden"
+            style={{
+    width: "430px",
+    borderRadius: "24px",
+  }}
           >
-            <div className="card-body p-5">
+            <div className="card-body p-5 bg-dark text-white ">
+            
 
-              <h2 className="fw-bold text-center">
-                Create Account
-              </h2>
+              <h1 className="fw-bold text-center text-white mb-1">
+  Maven
+</h1>
 
-              <p className="text-center text-muted mb-4">
+<h2 className="fw-bold text-center text-white">
+  Create Account
+</h2>
+              <p className="text-center text-white mb-4">
                 Register to get started
               </p>
 
@@ -150,14 +157,12 @@ function Register() {
                   )}
                 </div>
 
-                <button
-                  className="btn btn-dark w-100"
-                  disabled={loading}
-                >
-                  {loading
-                    ? "Creating Account..."
-                    : "Register"}
-                </button>
+               <button
+  className="btn btn-light text-dark fw-semibold w-100"
+  disabled={loading}
+>
+  {loading ? "Creating Account..." : "Register"}
+</button>
 
               </form>
 

@@ -62,16 +62,20 @@ function Login() {
         <div className="col-lg-6 d-flex align-items-center justify-content-center">
 
           <div
-            className="card shadow-lg border-0"
+            className="card shadow-lg border-0 bg-dark text-white"
             style={{ width: "430px" }}
           >
             <div className="card-body p-5">
+            
+                <h1 className="fw-bold text-center text-white mb-1">
+  Maven
+</h1>
 
               <h2 className="fw-bold text-center">
                 Welcome Back
               </h2>
 
-              <p className="text-center text-muted mb-4">
+              <p className="text-center text-white mb-4">
                 Login to your account
               </p>
 
@@ -119,12 +123,12 @@ function Login() {
                   )}
                 </div>
 
-                <button
-                  className="btn btn-dark w-100"
-                  disabled={loading}
-                >
-                  {loading ? "Logging in..." : "Login"}
-                </button>
+               <button
+  className="btn btn-light text-dark fw-semibold w-100"
+  disabled={loading}
+>
+  {loading ? "Logging in..." : "Login"}
+</button>
 
               </form>
 
