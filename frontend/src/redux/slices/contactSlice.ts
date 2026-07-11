@@ -9,6 +9,7 @@ export interface Contact {
   phone: string;
   company: string;
   status: string;
+  address: string;
 }
 
 interface ContactState {
