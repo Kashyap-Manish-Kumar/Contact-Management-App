@@ -1,0 +1,65 @@
+body {
+  background: #f8f9fa;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.btn {
+  border-radius: 10px;
+}
+
+.form-control {
+  border-radius: 10px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.dashboard-card{
+    border-radius:16px;
+    transition:all .3s ease;
+}
+
+.dashboard-card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 12px 25px rgba(0,0,0,.15)!important;
+}
+
+.dashboard-icon{
+    width:70px;
+    height:70px;
+    border-radius:15px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    flex-shrink:0;
+}
+
+.list-group-item {
+    transition: all .25s ease;
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background: #f8f9fa;
+}
+
+.list-group-item.active {
+    background: #212529;
+    border-color: #212529;
+}
+
+.list-group {
+    scrollbar-width: thin;
+}
+
