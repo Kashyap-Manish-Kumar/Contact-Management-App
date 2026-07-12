@@ -6,18 +6,21 @@ The project demonstrates modern full-stack web development by combining secure a
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Links
 
-**🚀 Live Application**  
+### 🚀 Live Application
 https://contact-management-app-nine-drab.vercel.app/
 
-**🎥 Demo Video**  
-https://drive.google.com/file/d/1X0iYmGRYBZxW9SEwQ1_dg9GcCswYt12S/view?usp=sharing
+> **Note:** The backend is hosted on Render's free tier. If the application has been inactive for some time, the first request may take **30–60 seconds** while the server starts.
 
-**💻 GitHub Repository**  
-https://github.com/Kashyap-Manish-Kumar/Contact-Management-App
+---
 
-> **Note:** The backend is deployed on Render's free tier. If the application has been inactive, the first request may take a few seconds while the backend server starts.
+## 🎥 Demo Videos
+
+| Platform | Link |
+|----------|------|
+| 💻 Desktop / Laptop Demo | https://drive.google.com/file/d/YOUR_DESKTOP_VIDEO_ID/view |
+| 📱 Mobile Responsive Demo | https://drive.google.com/file/d/YOUR_MOBILE_VIDEO_ID/view |
 
 ---
 
