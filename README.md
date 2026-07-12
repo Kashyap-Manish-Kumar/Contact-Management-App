@@ -19,8 +19,8 @@ https://contact-management-app-nine-drab.vercel.app/
 
 | Platform | Link |
 |----------|------|
-| 💻 Desktop / Laptop Demo | https://drive.google.com/file/d/YOUR_DESKTOP_VIDEO_ID/view |
-| 📱 Mobile Responsive Demo | https://drive.google.com/file/d/YOUR_MOBILE_VIDEO_ID/view |
+| 💻 Desktop / Laptop Demo | https://drive.google.com/file/d/13z9VkoXrwTri6GrlOLkVCKTXDiI2Bm6y/view |
+| 📱 Mobile Responsive Demo | https://drive.google.com/file/d/1qyZ6lQIf45e6dPOFyGm-TY-n_7zYZWXv/view |
 
 ---
 
